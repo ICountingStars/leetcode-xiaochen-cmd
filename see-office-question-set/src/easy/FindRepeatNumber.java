@@ -21,7 +21,7 @@ import java.util.Set;
  * @date 2021/2/18
  * @since 1.0.0
  **/
-public class findRepeatNumber {
+public class FindRepeatNumber {
     //题目分析: nums.length==n   nums[] 取值范围 [0,n-1] 并知道
     // 若是有序无重复数值 则有此关系 nums[i]=i
     // 反之就是重复数组，这时候满足输出条件
