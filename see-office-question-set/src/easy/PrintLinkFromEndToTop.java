@@ -21,7 +21,7 @@ import java.util.Stack;
  **/
 public class PrintLinkFromEndToTop {
 
-    //用栈的特性来解题
+    //用栈的特性来解题  测
     public static int[] printLinkFromEndToTop2(ListNode head) {
         Stack<ListNode> stack = new Stack<>();
         ListNode temp = head;
