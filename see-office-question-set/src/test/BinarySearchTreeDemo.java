@@ -1,7 +1,7 @@
 package test;
 
 public class BinarySearchTreeDemo {
-//有删除有问题！！！∂
+//有删除有问题！！！
     public static void main(String[] args) {
         BinarySearchTree tree = new BinarySearchTree();
 
