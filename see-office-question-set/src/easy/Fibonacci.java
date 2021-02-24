@@ -97,17 +97,16 @@ public class Fibonacci {
     }
 
     public static void main(String[] args) {
-        System.out.println(fibonacci(2));
-        System.out.println(fibonacci(5));
-        System.out.println(fibonacci3(2));
-        System.out.println(fibonacci3(5));
-        System.out.println(fibonacci3(50));
-        System.out.println(fibonacci4(2));
-        System.out.println(fibonacci4(5));
-        System.out.println(fibonacci4(50));
+//        System.out.println(fibonacci(2));
+//        System.out.println(fibonacci(5));
+//        System.out.println(fibonacci3(2));
+//        System.out.println(fibonacci3(5));
+//        System.out.println(fibonacci3(50));
+//        System.out.println(fibonacci4(2));
+//        System.out.println(fibonacci4(5));
         Fibonacci fibonacci = new Fibonacci();
-        System.out.println(fibonacci.fibonacci2(2));
-        System.out.println(fibonacci.fibonacci2(5));
-        System.out.println(fibonacci.fibonacci2(50));
+//        System.out.println(fibonacci.fibonacci2(2));
+//        System.out.println(fibonacci.fibonacci2(5));
+//        System.out.println(fibonacci.fibonacci2(50));
     }
 }
